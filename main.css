@@ -1,4 +1,13 @@
 body {
-  margin: 0 auto;
-  background-color: darkgreen;
+    margin: 0 auto;
+    background-color: darkgreen;
+}
+
+#characters {
+    padding:20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 5px solid;
+    background:lightcyan;
+    position: relative;
 }
