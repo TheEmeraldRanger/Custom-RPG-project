@@ -3,6 +3,21 @@ body {
     background-color: darkgreen;
 }
 
+#pageheader * {
+    padding:20px;
+    margin: 0 auto;
+    border-bottom: 25px solid black;
+    background:lightcyan;
+    color: darkgreen;
+    font-size: 40px;
+    font-family: cursive;
+    font-style:italic;
+    text-shadow: 2px 2px 2px black;
+    position: static;
+    bottom:25px;
+    z-index: 2;
+}
+
 #characters {
     padding:20px;
     margin-left: 200px;
